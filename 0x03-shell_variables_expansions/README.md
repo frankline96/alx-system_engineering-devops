@@ -1,2 +1,1 @@
-un nouveau readme
-special
+Shell permissions expansions
